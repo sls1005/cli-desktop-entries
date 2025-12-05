@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=perl
+NoDisplay=true
+Icon=application-x-executable
+Exec=perl %f
+Terminal=true
+MimeType=text/x-perl
+Categories=Development

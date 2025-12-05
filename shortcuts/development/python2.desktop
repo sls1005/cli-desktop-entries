@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=python2
+NoDisplay=true
+Icon=application-x-executable
+Exec=python2 %f
+Terminal=true
+MimeType=text/x-python
+Categories=Utility

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=emacs
+NoDisplay=true
+Icon=application-x-executable
+Exec=emacs %f
+Terminal=true
+MimeType=text/plain;text/*
+Categories=Utility

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=dart compile exe
+NoDisplay=true
+Icon=application-x-executable
+Exec=dart compile exe %f
+Terminal=true
+MimeType=text/x-dart
+Categories=Development

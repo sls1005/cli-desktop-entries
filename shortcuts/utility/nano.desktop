@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=nano
+NoDisplay=true
+Icon=application-x-executable
+Exec=nano %F
+Terminal=true
+MimeType=text/plain;text/*
+Categories=Utility

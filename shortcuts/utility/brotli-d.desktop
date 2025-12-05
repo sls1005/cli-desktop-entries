@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=brotli -d
+NoDisplay=true
+Icon=application-x-executable
+Exec=brotli -d %F
+Terminal=true
+MimeType=application/x-br
+Categories=Utility

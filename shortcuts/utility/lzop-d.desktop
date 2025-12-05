@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=lzop -d
+NoDisplay=true
+Icon=application-x-executable
+Exec=lzop -d %F
+Terminal=true
+MimeType=application/x-lzop
+Categories=Utility

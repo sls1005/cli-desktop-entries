@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=go run
+NoDisplay=true
+Icon=application-x-executable
+Exec=go run %f
+Terminal=true
+MimeType=text/x-go
+Categories=Utility

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=more
+NoDisplay=true
+Icon=application-x-executable
+Exec=more %f
+Terminal=true
+MimeType=text/plain;text/*
+Categories=Utility

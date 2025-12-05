@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=php
+NoDisplay=true
+Icon=application-x-executable
+Exec=php %f
+Terminal=true
+MimeType=text/x-php
+Categories=Development;Utility

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=cythonize -2 --inplace
+NoDisplay=true
+Icon=application-x-executable
+Exec=cythonize -2 --inplace %f
+Terminal=true
+MimeType=text/x-python;text/x-cython
+Categories=Development

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=zig run
+NoDisplay=true
+Icon=application-x-executable
+Exec=zig run %f
+Terminal=true
+MimeType=text/plain
+Categories=Development

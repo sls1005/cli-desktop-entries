@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=uncompress
+NoDisplay=true
+Icon=application-x-executable
+Exec=uncompress %f
+Terminal=true
+MimeType=application/x-compress
+Categories=Utility

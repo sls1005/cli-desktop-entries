@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=zstd -d
+NoDisplay=true
+Icon=application-x-executable
+Exec=zstd -d %F
+Terminal=true
+MimeType=application/zstd
+Categories=Utility

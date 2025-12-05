@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=gzip
+NoDisplay=true
+Icon=application-x-executable
+Exec=gzip %F
+Terminal=true
+MimeType=application/octet-stream;application/*;audio/*;font/*;image/*;model/*;text/plain;text/*;video/*
+Categories=Utility

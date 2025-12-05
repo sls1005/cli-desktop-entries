@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=gzip -d
+NoDisplay=true
+Icon=application-x-executable
+Exec=gzip -d %F
+Terminal=true
+MimeType=application/gzip
+Categories=Utility

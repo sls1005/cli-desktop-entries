@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=sh
+NoDisplay=true
+Icon=application-x-executable
+Exec=sh %f
+Terminal=true
+MimeType=text/plain
+Categories=Utility

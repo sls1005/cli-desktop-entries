@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=ruby
+NoDisplay=true
+Icon=application-x-executable
+Exec=ruby %f
+Terminal=true
+MimeType=text/x-ruby
+Categories=Development;Utility

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=lzip -d
+NoDisplay=true
+Icon=application-x-executable
+Exec=lzip -d %f
+Terminal=true
+MimeType=application/x-lzip
+Categories=Utility

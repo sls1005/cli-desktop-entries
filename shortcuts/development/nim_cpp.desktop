@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=nim cpp
+NoDisplay=true
+Icon=application-x-executable
+Exec=nim cpp %f
+Terminal=true
+MimeType=text/x-nim
+Categories=Development

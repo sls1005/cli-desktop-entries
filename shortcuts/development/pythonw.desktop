@@ -1,0 +1,11 @@
+[Desktop Entry]
+# This entry is an alias for 'python'
+Version=1.5
+Type=Application
+Name=python (No terminal)
+NoDisplay=true
+Icon=application-x-executable
+Exec=python %f
+Terminal=false
+MimeType=application/x-pythonw
+Categories=Utility

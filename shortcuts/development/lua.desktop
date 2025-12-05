@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=lua
+NoDisplay=true
+Icon=application-x-executable
+Exec=lua %f
+Terminal=true
+MimeType=text/x-lua
+Categories=Development

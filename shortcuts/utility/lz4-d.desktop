@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=lz4 -d
+NoDisplay=true
+Icon=application-x-executable
+Exec=lz4 -d %f
+Terminal=true
+MimeType=application/x-lz4
+Categories=Utility

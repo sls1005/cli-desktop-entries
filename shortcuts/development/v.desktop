@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=v
+NoDisplay=true
+Icon=application-x-executable
+Exec=v %f
+Terminal=true
+MimeType=text/plain
+Categories=Development
+

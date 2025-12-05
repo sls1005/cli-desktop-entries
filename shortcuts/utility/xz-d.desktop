@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=xz -d
+NoDisplay=true
+Icon=application-x-executable
+Exec=xz -d %F
+Terminal=true
+MimeType=application/x-xz
+Categories=Utility

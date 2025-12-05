@@ -1,0 +1,11 @@
+[Desktop Entry]
+# Note that you might also need an implicitly required package called 'python3-devel' or a similar name. It might not be automatically installed even if you might have installed Cython via the system package manager, but the command will not work without it.
+Version=1.5
+Type=Application
+Name=cythonize --inplace
+NoDisplay=true
+Icon=application-x-executable
+Exec=cythonize --inplace %f
+Terminal=true
+MimeType=text/x-python;text/x-cython
+Categories=Development

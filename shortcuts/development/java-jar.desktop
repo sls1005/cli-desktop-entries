@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=java -jar
+NoDisplay=true
+Icon=application-x-executable
+Exec=java -jar %f
+Terminal=true
+MimeType=application/java-archive
+Categories=Utility

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=groovy
+NoDisplay=true
+Icon=application-x-executable
+Exec=groovy %f
+Terminal=true
+MimeType=text/x-groovy
+Categories=Development

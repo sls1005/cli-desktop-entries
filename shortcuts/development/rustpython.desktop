@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=rustpython
+NoDisplay=true
+Icon=application-x-executable
+Exec=rustpython %f
+Terminal=true
+MimeType=text/x-python
+Categories=Development;Science;Utility

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=gunzip
+NoDisplay=true
+Icon=application-x-executable
+Exec=gunzip %F
+Terminal=true
+MimeType=application/gzip
+Categories=Utility

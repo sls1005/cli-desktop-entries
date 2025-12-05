@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=vi
+NoDisplay=true
+Icon=application-x-executable
+Exec=vi %f
+Terminal=true
+MimeType=text/plain;text/*
+Categories=Utility

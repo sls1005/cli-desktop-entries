@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This type is fictional. It is invented by me for associating an extension name with a command (and to differentiate from text/x-python, so that we can use a different command for it or with a different argument). It has no other purpose, and there is currently no application specifically designed for this type of data on this system. -->
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+    <mime-type type="application/x-pythonw">
+        <glob pattern="*.pyw"/>
+    </mime-type>
+</mime-info>

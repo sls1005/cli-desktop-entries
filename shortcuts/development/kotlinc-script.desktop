@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=kotlinc -script
+NoDisplay=true
+Icon=application-x-executable
+Exec=kotlinc -script %f
+Terminal=true
+MimeType=text/x-kotlin
+Categories=Utility

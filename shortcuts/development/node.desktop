@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=node
+NoDisplay=true
+Icon=application-x-executable
+Exec=node %f
+Terminal=true
+MimeType=text/javascript
+Categories=Development
